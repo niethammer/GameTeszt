@@ -8,5 +8,10 @@ namespace GameTeszt
 {
     internal class Class1
     {
+        int x;
+
+
+
+
     }
 }
