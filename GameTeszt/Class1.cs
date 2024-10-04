@@ -11,6 +11,7 @@ namespace GameTeszt
         int x;
 
 
+        int y;
 
 
     }
